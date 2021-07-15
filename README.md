@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gokul Kannan
-- 👀 I’m interested in Python, Java, Javascript, HTML, CSS, Flutter, Node
+- 👀 I’m interested in Python, Java, Javascript, HTML, CSS, Flutter, Node, MongoDB, Firebase, SQL
 - 📫 contact me: gokulskannan1993@gmail.com
 
 <!---

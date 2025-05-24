@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gokul Sreeletha Kannan
+# 👋 Hi, I'm Gokul Kannan
 
 🎯 **Software Engineer | Python Enthusiast | Cloud Learner | Test Automation Developer**
 

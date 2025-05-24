@@ -16,23 +16,6 @@ Welcome to my GitHub! I'm a passionate and detail-oriented **Software Engineer**
 
 ---
 
-## 🧪 Featured Projects
-
-### 🔹 [Konvo – Real-Time Chat & Video Calling App](https://github.com/gokulskannan1993/konvo-video-calling-app-MERN-Stack)
-A full-stack communication platform with:
-- ✅ 1-on-1 and group video calling
-- ✅ Live chat messaging
-- ✅ Screen sharing & **JWT-based authentication**
-- **Stack**: React.js, Node.js, Express.js, MongoDB, Zustand, TanStack Query, Stream API
-
-### 🔹 [Babysitter Booking App](https://github.com/gokulskannan1993/babysitter_booking_app)
-A simplified booking platform for parents to find babysitters with:
-- 🔐 Firebase Authentication
-- 📦 Firebase Storage & Cloud Firestore
-- **Stack**: Flutter, Dart, Firebase
-
----
-
 ## 🔧 Tech Stack
 
 - **Languages**: Python, Java, JavaScript, Dart, C++
